@@ -46,3 +46,9 @@ MVC 패턴을 적용할 예정이며, 개발자 코스로 진행될 예정.(심�
 * 연결된 클라이언트 목록 관리
 * 채팅 메세지 수신 및 브로드캐스팅
 * 로그 출력
+
+
+## 상세 화면
+
+<img width="500" alt="1" src="https://user-images.githubusercontent.com/67010327/103910307-06e38000-5148-11eb-9147-4c4194c5e953.png">
+<img width="805" alt="2" src="https://user-images.githubusercontent.com/67010327/103910303-064ae980-5148-11eb-93a2-9862a83b1625.png">
